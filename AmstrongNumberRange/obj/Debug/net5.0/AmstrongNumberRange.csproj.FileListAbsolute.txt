@@ -1,0 +1,16 @@
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.exe
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.dll
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\ref\AmstrongNumberRange.dll
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\bin\Debug\net5.0\AmstrongNumberRange.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.csproj.AssemblyReference.cache
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.dll
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\ref\AmstrongNumberRange.dll
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\AmstrongNumberRange\obj\Debug\net5.0\AmstrongNumberRange.genruntimeconfig.cache

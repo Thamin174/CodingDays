@@ -1,0 +1,16 @@
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.exe
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\ref\PalindromeString.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\bin\Debug\net5.0\PalindromeString.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\ref\PalindromeString.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.genruntimeconfig.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PalindromeString\obj\Debug\net5.0\PalindromeString.csproj.AssemblyReference.cache

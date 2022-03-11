@@ -1,0 +1,15 @@
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.exe
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.dll
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\ref\BinaryToDeciamalConversion.dll
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\bin\Debug\net5.0\BinaryToDeciamalConversion.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.dll
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\ref\BinaryToDeciamalConversion.dll
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\BinaryToDeciamalConversion\obj\Debug\net5.0\BinaryToDeciamalConversion.genruntimeconfig.cache

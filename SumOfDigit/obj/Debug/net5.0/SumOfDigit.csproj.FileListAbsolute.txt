@@ -1,0 +1,15 @@
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.exe
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.dll
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\ref\SumOfDigit.dll
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\bin\Debug\net5.0\SumOfDigit.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.dll
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\ref\SumOfDigit.dll
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\SumOfDigit\obj\Debug\net5.0\SumOfDigit.genruntimeconfig.cache

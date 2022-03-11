@@ -1,0 +1,15 @@
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.exe
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\ref\TwistedPrimeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\bin\Debug\net5.0\TwistedPrimeNumber.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\ref\TwistedPrimeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\TwistedPrimeNumber\obj\Debug\net5.0\TwistedPrimeNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.exe
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.deps.json
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.runtimeconfig.json
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.runtimeconfig.dev.json
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\ref\PlaindromeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\bin\Debug\net5.0\PlaindromeNumber.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.csproj.AssemblyReference.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.AssemblyInfoInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.AssemblyInfo.cs
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.csproj.CoreCompileInputs.cache
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\ref\PlaindromeNumber.dll
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.pdb
+D:\Learning Path\CodingDays\FibonacciSeries\PlaindromeNumber\obj\Debug\net5.0\PlaindromeNumber.genruntimeconfig.cache
